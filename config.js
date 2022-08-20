@@ -1,9 +1,8 @@
 module.exports = {
     app: {
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        token: 'OTAzODUxMDkzNzkwOTU3NTk4.YXy-7Q.exnK6n-ogD_UHncAK5axLt5jzYc',
+        playing: 'shit music 💩',
         global: true,
-        guild: 'XXX'
     },
 
     opt: {
